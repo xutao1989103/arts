@@ -16,7 +16,7 @@
 3、架构[https://github.com/davideuler/architecture.of.internet-product]  
 目标:  
 1.2)搜索引擎  
-2.1)数据结构
+2.1)数据结构  
 3.1)Google技术架构
 #### 算法题
 1、LeetCode[https://leetcode.com]  
@@ -29,5 +29,5 @@
 目标：  
 1.3.1）Kubernetes架构
 #### 读书
-1、Head First
+1、Head First  
 2、实战Java高并发程序设计
